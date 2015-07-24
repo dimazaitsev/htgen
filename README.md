@@ -22,8 +22,11 @@ Parameters:
 -----------
 
 d   the number of dimensions;
+
 k   the hypertorus size, actually k x k x k x ... x k - d times;
+
 p   the number of packets in each section of the internal buffer;
+
 b   the internal buffer available size.
 
 
@@ -38,7 +41,7 @@ Tools to display, edit, visualize, and analyze generated models:
 
 Tina Toolbox for analysis of Petri nets and Time Petri nets http://www.laas.fr/tina
 
-Exported from Tina models are opened with other tools for Petri nets.
+Exported from Tina models are opened with other tools for Petri nets http://www.informatik.uni-hamburg.de/TGI/PetriNets/tools/quick.html
 
 
 An example:
