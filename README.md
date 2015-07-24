@@ -80,7 +80,7 @@ Automatic Control and Computer Sciences, 2013, Vol. 47, No. 7, pp. 403–412.
 http://dx.doi.org/10.3103/S0146411613070262 
 
 
-------------
-daze@acm.org
-------------
+---------------------------
+http://member.acm.org/~daze
+---------------------------
 
