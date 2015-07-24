@@ -49,7 +49,7 @@ An example:
 
 >htgen 3 2 2 3 > ht3d2k2p3b.net
 
-- Generate a model a hypertorus with 3 dimensions of size 2 with 2 packets in each buffer section and 
+- Generate a model of a hypertorus with 3 dimensions of size 2 with 2 packets in each buffer section and 
 available size of buffer 3.
 
 >nd ht3d2k2p3b.net
